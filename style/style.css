@@ -39,3 +39,37 @@ header {
     height: 600px;
 }
 /* Header section end */
+
+
+/* footer section start */
+.footer-text {
+    color: brown;
+}
+.fonts {
+    color: white;
+}
+footer{
+   background: #111010;
+    text-align: center;
+    /* justify-content: center; */
+    /* width: 1522px; */
+    height: 449px;
+}
+.footer-content { 
+color: rgba(255, 255, 255, 0.90);
+font-size: 14px;
+font-weight: 400;
+line-height: 30px;
+/* width: 50%; */
+}
+.footer-title {
+    padding: 130px 450px;
+}
+
+.footer-item {
+color: rgba(255, 255, 255, 0.40);
+font-size: 13px;
+/* font-weight: 400px; */
+}
+
+/* footer section end */
