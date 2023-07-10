@@ -1,0 +1,10 @@
+body{
+   font-family: ;
+}
+.bannar {
+   background-color: rgba(231, 157, 214, 0.897);
+}
+.bannar-main-pat{
+    margin: 50px 180px 0px;
+    display: flex;
+}
