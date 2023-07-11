@@ -202,7 +202,15 @@ header {
     border: 0;
     width: 350px;
 }
-/* et The Latest Deals section end */
+/* Get The Latest Deals section end */
+
+.extra-section {
+    background-color: rgba(236, 201, 224, 0.452);
+    margin: 100px 400px;
+    padding: 50px 100px;
+    text-align: center;
+    border-radius: 20px;
+}
 /* main ar section end */
 
 /* footer section start */
@@ -231,7 +239,7 @@ line-height: 30px;
 }
 
 .footer-item {
-color: rgba(39, 39, 39, 0.60);
+color: rgba(39, 39, 39, 0.60),m;
 font-size: 13px;
 /* font-weight: 400px; */
 }
