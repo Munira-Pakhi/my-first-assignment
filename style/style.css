@@ -211,6 +211,10 @@ header {
     text-align: center;
     border-radius: 20px;
 }
+nav li {
+    list-style: none;
+}
+
 /* main ar section end */
 
 /* footer section start */
