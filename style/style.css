@@ -40,6 +40,28 @@ header {
 }
 /* Header section end */
 
+/* main ar section start */
+.section {
+    text-align: center;
+}
+.section-title {
+    padding: 50px 500px 10px;
+}
+.section-item{
+    font-size: 20px;
+}
+.section-content{
+    font-size: 13px;
+}
+.section-pic {
+    padding: 5px 220px 100px;
+    display: flex;
+    width: 160px;
+    height: 300px;
+    gap: 10px;
+}
+
+/* main ar section end */
 
 /* footer section start */
 .footer-text {
